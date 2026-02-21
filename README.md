@@ -1,5 +1,5 @@
 # Recruitment Task: Virtual Columns in Pandas
-**Candidate:** [Dawid Grzesiak]
+**Candidate:** Dawid Grzesiak
 
 **Key Design Decisions:**
 1. **Strict Validation:** A dedicated helper function (`is_valid_label`) enforces the regex rule `^[a-zA-Z_]+$` to ensure no digits or symbols sneak into the pipeline.
